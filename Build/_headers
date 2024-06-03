@@ -1,0 +1,23 @@
+/Build/repo.framework.js.gz
+  Content-Encoding: gzip
+  Content-Type: application/javascript
+
+/Build/repo.data.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
+
+/Build/repo.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
+
+/Build/repo.framework.js.unityweb
+  Content-Encoding: gzip
+  Content-Type: application/javascript
+
+/Build/repo.data.unityweb
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
+
+/Build/repo.wasm.unityweb
+  Content-Encoding: gzip
+  Content-Type: application/wasm
